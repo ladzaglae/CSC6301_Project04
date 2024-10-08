@@ -1,0 +1,15 @@
+IMP:
+For the assignment, please make sure your diagrams have been converted to pdf files which can be read by anyone and does not require some software which needs to be downloaded for viewing it.
+
+Instructions
+Implement a program that reads a list of Integer numbers from the scanned input and saves them into a Linked List sorted from the smallest to the largest. Be sure to use the Collections Framework and follow code guidelines and document your code accordingly;
+
+Please make sure your program can be run on the command line and does NOT need an IDE to run. Please mention the command that needs to be run to invoke your program. Lastly, make sure you list the javadoc command to be used to generate javadoc
+
+Keep in mind that you will be using this "infrastructure" in your next module's assignment. 
+
+Deliverable
+Save your files within a single folder; Save your folder in a zip file and submit it to Canvas on or before 11:59 pm ET on Tuesday
+
+Add your file by selecting "Upload" or by dragging and dropping the file.
+Select "Submit Assignment" to turn in your assignment.
